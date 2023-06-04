@@ -19,8 +19,8 @@ Save the data to the file
 
 ## CODE-Done for "titanic_dataset.csv"
 ```python
-Developed By: ARAVINDAN K
-Reg.No: 212220040013
+Developed By: CHANDRU.G
+Reg.No: 212220040029
 
 #loading dataset
 import pandas as pd
